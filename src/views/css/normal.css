@@ -1,0 +1,67 @@
+html, body {
+	margin: 0;
+}
+body {
+	width: 100%;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3,h4,h5,h6 {
+	margin: 0;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.wrap {
+	position: relative;
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.head-title {
+  color: #417bbb;
+  font-size: 30px;
+  line-height: 80px;
+  text-indent: 10px;
+}
+
+/**
+ * nav list -------start
+ */
+.nav {
+  width: 1200px;
+  background: #186ea7;
+  margin: 0 auto;
+  clear: both;
+}
+.nav-all {
+  width: 1200px;
+  margin: 0 auto;
+  height: 48px;
+  position: relative;
+  z-index: 10;
+  background-color: #186ea7;
+}
+.nav li {
+	float: left;
+  line-height: 48px;
+  font-size: 20px;
+  position: relative;
+}
+.nav li a {
+  color: #fafafa;
+  padding: 0 30px;
+}
+/**
+ * nav list -------end
+ */
+

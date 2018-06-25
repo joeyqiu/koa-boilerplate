@@ -1,0 +1,22 @@
+html, body {
+	margin: 0;
+}
+
+.headbar {
+	position: sticky;
+	top: 0;
+	left: 0;
+	padding: 15px 20px;
+	background-color: #563d7c;
+	color: #fff;
+  box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
+}
+
+.paragraph {
+	padding: 20px;
+	border-bottom: 1px solid #eee;
+}
+
+.btn-large {
+	width: 200px;
+}
