@@ -1,6 +1,7 @@
 # koa-boilerplate
 boilerplate for koa project
 
+自学koa的时候，用到的一些常用中间件：
 
 有两个分支，一个是基于react的服务端渲染，一个是普通的模板渲染
 
